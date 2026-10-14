@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Desafios para a valorização do magistério e combate à evasão escolar no Brasil",
+    "category": "Educação",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: Segundo o Censo Escolar do INEP, mais de 480 mil estudantes abandonaram o Ensino Médio na rede pública no último biênio. Paralelamente, pesquisas da OCDE apontam que o piso salarial e as condições de infraestrutura docente no Brasil permanecem abaixo da média internacional.\nTEXTO II: Para Paulo Freire, a educação não transforma o mundo isoladamente, mas muda as pessoas que vão transformar o mundo.",
+    "proposalPrompt": "A partir da leitura dos textos motivadores e com base nos conhecimentos construídos ao longo de sua formação, redija texto dissertativo-argumentativo em modalidade escrita formal da língua portuguesa sobre o tema 'Desafios para a valorização do magistério e combate à evasão escolar no Brasil', apresentando proposta de intervenção que respeite os direitos humanos.",
+    "repertoireSuggestions": "• Paulo Freire ('Pedagogia da Autonomia')\n• Art. 205 da Constituição Federal de 1988 (Educação como direito de todos e dever do Estado)\n• Pierre Bourdieu (Capital Cultural e reprodução das desigualdades)",
+    "guidingQuestions": "1. De que modo a precarização da carreira docente impacta o engajamento dos estudantes?\n2. Como fatores socioeconômicos forçam jovens ao trabalho precoce em detrimento da escola?"
+  },
+  {
+    "title": "Impactos da Inteligência Artificial Generativa na ética profissional e no mercado de trabalho",
+    "category": "Tecnologia",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: O avanço acelerado dos modelos de Inteligência Artificial generativa reconfigurou setores criativos, jurídicos e industriais. Enquanto a produtividade cresce, ampliam-se os debates sobre substituição de postos formais e desinformação sintética.\nTEXTO II: Relatório do Fórum Econômico Mundial estima que 44% das habilidades essenciais dos trabalhadores serão transformadas nos próximos cinco anos.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'Impactos da Inteligência Artificial Generativa na ética profissional e no mercado de trabalho'.",
+    "repertoireSuggestions": "• Klaus Schwab ('A Quarta Revolução Industrial')\n• Hans Jonas ('O Princípio Responsabilidade' — ética voltada para o futuro tecnológico)\n• Milton Santos ('Técnica, Espaço, Tempo')",
+    "guidingQuestions": "1. Como equilibrar inovação tecnológica e proteção social ao trabalhador?\n2. Qual o papel do Estado e das universidades na requalificação digital?"
+  },
+  {
+    "title": "O estigma associado à saúde mental e ao esgotamento laboral na sociedade contemporânea",
+    "category": "Saúde",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: A Organização Mundial da Saúde (OMS) incluiu a Síndrome de Burnout na Classificação Internacional de Doenças como fenômeno ocupacional resultante do estresse crônico.\nTEXTO II: No Brasil, os afastamentos por transtornos ansiosos e depressivos cresceram 38% segundo o Ministério da Previdência Social.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'O estigma associado à saúde mental e ao esgotamento laboral na sociedade contemporânea'.",
+    "repertoireSuggestions": "• Byung-Chul Han ('Sociedade do Cansaço' — autocoerção pela produtividade)\n• Conceito biopsicossocial de saúde da OMS\n• Lei 10.216/2001 (Reforma Psiquiátrica no Brasil)",
+    "guidingQuestions": "1. Por que o sofrimento psíquico ainda é visto como fraqueza individual nas empresas?\n2. Como fortalecer a Rede de Atenção Psicossocial (RAPS/CAPS) no SUS?"
+  },
+  {
+    "title": "Justiça climática e proteção às populações vulneráveis diante de eventos extremos no Brasil",
+    "category": "Meio Ambiente",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: Enchentes severas no Sul e secas históricas na Amazônia evidenciam que as mudanças climáticas atingem de maneira desproporcional moradores de periferias, comunidades ribeirinhas e povos originários.\nTEXTO II: O conceito de racismo ambiental denuncia que a falta de saneamento e moradia segura expõe grupos vulneráveis aos maiores riscos ecológicos.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'Justiça climática e proteção às populações vulneráveis diante de eventos extremos no Brasil'.",
+    "repertoireSuggestions": "• Ailton Krenak ('Ideias para Adiar o Fim do Mundo')\n• Artigo 225 da Constituição de 1988 (Direito ao meio ambiente ecologicamente equilibrado)\n• Ulrich Beck ('Sociedade de Risco')",
+    "guidingQuestions": "1. Por que os impactos ambientais não afetam todas as classes sociais de modo igual?\n2. Quais políticas urbanas de prevenção e adaptação climática são urgentes?"
+  },
+  {
+    "title": "O fortalecimento da cidadania participativa e o combate à desinformação eleitoral",
+    "category": "Política",
+    "examType": "Concurso",
+    "motivatingText": "TEXTO I: A democracia contemporânea enfrenta o desafio das câmaras de eco digitais e da disseminação massiva de notícias fraudulentas que corroem a confiança nas instituições republicanas.",
+    "proposalPrompt": "Disserte sobre 'O fortalecimento da cidadania participativa e o combate à desinformação eleitoral'.",
+    "repertoireSuggestions": "• Jürgen Habermas ('Esfera Pública' e agir comunicativo)\n• Hannah Arendt ('Verdade e Política')\n• Art. 1º, parágrafo único da CF/88 (Todo o poder emana do povo)",
+    "guidingQuestions": "1. Como promover educação midiática e política sem ferir a liberdade de expressão?\n2. De que modo a participação cidadã vai além do voto periódico?"
+  },
+  {
+    "title": "Preservação do patrimônio cultural imaterial e valorização das matrizes afro-brasileiras e indígenas",
+    "category": "Cultura",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: O patrimônio imaterial compreende saberes, celebrações, formas de expressão e tradições orais que forjam a identidade nacional. Contudo, o apagamento histórico ameaça mestres da cultura popular.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'Preservação do patrimônio cultural imaterial e valorização das matrizes afro-brasileiras e indígenas'.",
+    "repertoireSuggestions": "• Darcy Ribeiro ('O Povo Brasileiro')\n• Stuart Hall ('A Identidade Cultural na Pós-Modernidade')\n• Lei 10.639/03 e Lei 11.645/08 (Ensino de história e cultura afro-brasileira e indígena)",
+    "guidingQuestions": "1. Por que a memória cultural é essencial para o sentimento de pertencimento?\n2. Como escolas e o IPHAN podem integrar mestres populares ao currículo?"
+  },
+  {
+    "title": "A ditadura dos algoritmos e a adultização precoce de crianças nas redes sociais",
+    "category": "Redes Sociais",
+    "examType": "Vestibular",
+    "motivatingText": "TEXTO I: Crianças e adolescentes passam em média mais de 5 horas diárias diante de telas, expostos a padrões estéticos irreais, hiperconsumo e algoritmos desenhados para retenção máxima de atenção.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'A ditadura dos algoritmos e a adultização precoce de crianças nas redes sociais'.",
+    "repertoireSuggestions": "• Neil Postman ('O Desaparecimento da Infância')\n• Estatuto da Criança e do Adolescente (ECA - Lei 8.069/1990)\n• Shoshana Zuboff ('A Era do Capitalismo de Vigilância')",
+    "guidingQuestions": "1. Qual a corresponsabilidade das plataformas digitais e das famílias na proteção infantil?\n2. Como a exposição precoce afeta o desenvolvimento cognitivo e emocional?"
+  },
+  {
+    "title": "Educação financeira e o combate ao superendividamento das famílias brasileiras",
+    "category": "Economia",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: A facilidade de acesso ao crédito digital, somada às apostas online e à ausência de formação financeira básica, levou milhões de lares brasileiros à inadimplência crônica.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'Educação financeira e o combate ao superendividamento das famílias brasileiras'.",
+    "repertoireSuggestions": "• Zygmunt Bauman ('Vida para Consumo')\n• Lei do Superendividamento (Lei 14.181/2021 - atualização do Código de Defesa do Consumidor)\n• Amartya Sen ('Desenvolvimento como Liberdade')",
+    "guidingQuestions": "1. Como a publicidade predatória de crédito fácil afeta cidadãos vulneráveis?\n2. Qual a importância da educação financeira crítica na BNCC?"
+  },
+  {
+    "title": "Caminhos para a redução da letalidade e humanização do sistema socioeducativo e prisional",
+    "category": "Segurança",
+    "examType": "Concurso",
+    "motivatingText": "TEXTO I: A segurança pública eficiente no Estado Democrático de Direito exige inteligência investigativa, prevenção primária nas periferias e políticas efetivas de ressocialização.",
+    "proposalPrompt": "Disserte sobre 'Caminhos para a redução da letalidade e humanização do sistema socioeducativo e prisional'.",
+    "repertoireSuggestions": "• Michel Foucault ('Vigiar e Punir')\n• Cesare Beccaria ('Dos Delitos e das Penas')\n• ADPF 347 do STF (Reconhecimento do 'Estado de Coisas Inconstitucional' no sistema carcerário)",
+    "guidingQuestions": "1. Por que o encarceramento sem educação e trabalho falha em reduzir a reincidência?\n2. Como aliar inteligência policial à garantia dos direitos fundamentais?"
+  },
+  {
+    "title": "A inclusão plena de pessoas com deficiência (PcD) e neurodivergentes na educação e no trabalho",
+    "category": "Inclusão Social",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: O capacitismo estrutural manifesta-se tanto na ausência de rampas, intérpretes de Libras e materiais em Braille quanto na subestimação intelectual de cidadãos com deficiência ou neurodivergentes.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'A inclusão plena de pessoas com deficiência (PcD) e neurodivergentes na educação e no trabalho'.",
+    "repertoireSuggestions": "• Estatuto da Pessoa com Deficiência (Lei Brasileira de Inclusão - Lei 13.146/2015)\n• Boaventura de Sousa Santos (Imperativo intercultural da igualdade e diferença)\n• Axel Honneth ('Luta por Reconhecimento')",
+    "guidingQuestions": "1. Qual a diferença entre mera integração física e inclusão efetiva?\n2. Como combater o preconceito capacitista nas escolas e empresas?"
+  },
+  {
+    "title": "O combate ao trabalho análogo à escravidão e a garantia da dignidade humana no século XXI",
+    "category": "Direitos Humanos",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: Mais de 3 mil trabalhadores foram resgatados em condições análogas à escravidão no último ano no Brasil, especialmente em cadeias agrícolas, têxteis e de serviços domésticos.\nTEXTO II: A Declaração Universal dos Direitos Humanos (ONU, 1948) proíbe em seu Artigo 4º qualquer forma de servidão degradante.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'O combate ao trabalho análogo à escravidão e a garantia da dignidade humana no século XXI'.",
+    "repertoireSuggestions": "• Declaração Universal dos Direitos Humanos (Art. 4º)\n• Hannah Arendt ('A Condição Humana')\n• Música 'A Carne' (Elza Soares) e 'Construção' (Chico Buarque)",
+    "guidingQuestions": "1. Como a vulnerabilidade socioeconômica facilita o aliciamento de trabalhadores?\n2. Qual o papel da fiscalização trabalhista e da responsabilização das cadeias produtivas?"
+  },
+  {
+    "title": "Os impactos da uberização e da informalidade na proteção previdenciária do trabalhador brasileiro",
+    "category": "Trabalho & Previdência",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: O crescimento do trabalho mediado por plataformas digitais (entregadores e motoristas de aplicativo) trouxe flexibilidade aparente, mas expôs milhões de brasileiros a jornadas superiores a 12 horas sem cobertura previdenciária ou descanso remunerado.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'Os impactos da uberização e da informalidade na proteção previdenciária do trabalhador brasileiro'.",
+    "repertoireSuggestions": "• Ricardo Antunes ('O Privilégio da Servidão')\n• Filme 'Tempos Modernos' (Charlie Chaplin)\n• Art. 7º da Constituição Federal de 1988 (Direitos dos trabalhadores urbanos e rurais)",
+    "guidingQuestions": "1. Como conciliar a inovação dos aplicativos com a proteção social e previdenciária?\n2. Quais os riscos do esgotamento físico de trabalhadores de plataformas?"
+  },
+  {
+    "title": "Desafios da mobilidade urbana sustentável e o direito à cidade nas metrópoles brasileiras",
+    "category": "Mobilidade Urbana",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: O modelo rodoviarista centrado no transporte individual motorizado resultou em congestionamentos crônicos, tarifas elevadas de ônibus e poluição atmosférica que penalizam sobretudo os moradores das periferias.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'Desafios da mobilidade urbana sustentável e o direito à cidade nas metrópoles brasileiras'.",
+    "repertoireSuggestions": "• Milton Santos ('O Espaço do Cidadão' e 'Cidadanias Mutiladas')\n• David Harvey ('O Direito à Cidade')\n• Lei da Política Nacional de Mobilidade Urbana (Lei 12.587/2012)",
+    "guidingQuestions": "1. De que forma a precariedade do transporte público segrega a população periférica?\n2. Como incentivar o transporte coletivo limpo e ciclovias integradas?"
+  },
+  {
+    "title": "Limites bioéticos da manipulação genética e democratização dos avanços biomédicos",
+    "category": "Ciência & Bioética",
+    "examType": "Vestibular",
+    "motivatingText": "TEXTO I: Tecnologias de edição genética como o CRISPR e terapias gênicas abrem caminho para a cura de doenças raras, mas despertam debates éticos sobre eugenia e elitização do acesso biotecnológico.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'Limites bioéticos da manipulação genética e democratização dos avanços biomédicos'.",
+    "repertoireSuggestions": "• Hans Jonas ('O Princípio Responsabilidade')\n• Aldous Huxley ('Admirável Mundo Novo')\n• Jürgen Habermas ('O Futuro da Natureza Humana')",
+    "guidingQuestions": "1. Onde termina a medicina terapêutica e começa o risco de eugenia social?\n2. Como garantir que a ciência beneficie toda a população no SUS?"
+  },
+  {
+    "title": "O envelhecimento populacional acelerado e o combate ao etarismo no Brasil",
+    "category": "Infância & Envelhecimento",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: Dados do Censo Demográfico do IBGE demonstram que a população com 60 anos ou mais cresceu 56% em doze anos, exigindo adaptação urgente nas cidades, na saúde e no mercado de trabalho.\nTEXTO II: O etarismo (preconceito por idade) marginaliza idosos e desvaloriza sua experiência social.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'O envelhecimento populacional acelerado e o combate ao etarismo no Brasil'.",
+    "repertoireSuggestions": "• Simone de Beauvoir ('A Velhice')\n• Estatuto da Pessoa Idosa (Lei 10.741/2003)\n• Art. 230 da Constituição Federal de 1988",
+    "guidingQuestions": "1. Por que a sociedade capitalista tende a descartar o cidadão idoso?\n2. Como preparar o sistema de saúde e o espaço urbano para a longevidade ativa?"
+  },
+  {
+    "title": "O esporte e o lazer como ferramentas de inclusão social e formação cidadã da juventude",
+    "category": "Esporte & Lazer",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: Embora o Brasil seja reconhecido mundialmente por talentos esportivos, a maioria das escolas públicas carece de quadras cobertas e programas contínuos de iniciação desportiva comunitária.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'O esporte e o lazer como ferramentas de inclusão social e formação cidadã da juventude'.",
+    "repertoireSuggestions": "• Artigo 6º e Artigo 217 da Constituição Federal de 1988 (Dever do Estado de fomentar práticas desportivas)\n• Nelson Mandela ('O esporte tem o poder de transformar o mundo')\n• Pierre Bourdieu (Sociologia do esporte)",
+    "guidingQuestions": "1. Como o acesso gratuito ao esporte previne a evasão escolar e a vulnerabilidade juvenil?\n2. Qual a importância de democratizar o lazer nas periferias?"
+  },
+  {
+    "title": "Caminhos para erradicar a insegurança alimentar e o desperdício de alimentos no Brasil",
+    "category": "Segurança Alimentar",
+    "examType": "ENEM",
+    "motivatingText": "TEXTO I: O paradoxo de um dos maiores exportadores agrícolas do planeta conviver com milhões de cidadãos em situação de insegurança alimentar revela falhas logísticas, desperdício na distribuição e desigualdade de renda.",
+    "proposalPrompt": "Redija texto dissertativo-argumentativo sobre 'Caminhos para erradicar a insegurança alimentar e o desperdício de alimentos no Brasil'.",
+    "repertoireSuggestions": "• Josué de Castro ('Geografia da Fome')\n• Documentário 'Ilha das Flores' (Jorge Furtado)\n• Carolina Maria de Jesus ('Quarto de Despejo')",
+    "guidingQuestions": "1. Por que a fome no Brasil é um problema de acesso e distribuição, e não de falta de produção?\n2. Como fortalecer a agricultura familiar e os bancos públicos de alimentos?"
+  },
+  {
+    "title": "Proteção de dados pessoais, golpes virtuais e educação para a cidadania digital no Brasil",
+    "category": "Cidadania Digital",
+    "examType": "Concurso",
+    "motivatingText": "TEXTO I: A digitalização dos serviços bancários e governamentais ampliou a comodidade, mas expôs milhões de brasileiros — especialmente idosos e cidadãos com baixo letramento digital — a vazamentos de dados, deepfakes e estelionato eletrônico.",
+    "proposalPrompt": "Disserte sobre 'Proteção de dados pessoais, golpes virtuais e educação para a cidadania digital no Brasil'.",
+    "repertoireSuggestions": "• Lei Geral de Proteção de Dados (LGPD - Lei 13.709/2018)\n• Marco Civil da Internet (Lei 12.965/2014)\n• George Orwell ('1984')",
+    "guidingQuestions": "1. Como fiscalizar empresas e plataformas contra o vazamento de dados sensíveis?\n2. Qual a urgência do letramento digital para proteger cidadãos vulneráveis?"
+  }
+]
