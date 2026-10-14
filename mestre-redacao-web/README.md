@@ -1,11 +1,9 @@
-# Mestre da Redação — versão web inicial
+# Mestre da Redação — versão web ampliada
 
-Reimplementação web inicial baseada no projeto Android Kotlin recebido. Inclui temas de redação extraídos do catálogo original, editor com salvamento local, biblioteca de estudo, desempenho e painel comunitário demonstrativo. Não contém integração de IA, autenticação, sincronização entre dispositivos ou scanner.
+Recursos: temas, editor, salvamento local, histórico, comunidade pessoal, simulados de português importados do catálogo Kotlin, aulas em formato de trilha, upload e prévia de fotos, correção por Gemini via Netlify Functions.
 
-## Executar
-`npm install` e `npm run dev`
+## Deploy
+Publicar o conteúdo desta pasta na branch `web` do GitHub. Netlify: base directory correspondente a esta pasta, build `npm run build`, publish `dist`. Configure a variável de ambiente `GEMINI_API_KEY` no painel do Netlify para habilitar correção por IA. Nunca coloque a chave no código web.
 
-## Publicar no Netlify
-Build command: `npm run build`; Publish directory: `dist`. Arquivo netlify.toml incluído.
-
-**Não exponha chaves de API no frontend.** IA requer função server-side e configuração segura.
+## Limitações
+Não inclui login, comunidade online compartilhada, OCR real, vídeos hospedados ou sincronização entre dispositivos. Os dados de escrita ficam no localStorage do navegador. A avaliação por IA é estimativa, não nota oficial.
