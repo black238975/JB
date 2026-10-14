@@ -9,3 +9,18 @@
 .grading-message.loading{color:inherit}
 .dark .grading-message.error{color:#ffc7c7;background:#49222a;border-color:#a75462}
 .dark .grading-message.success{color:#c1f7da;background:#163b2b;border-color:#337952}
+
+/* Controle de tema disponível também na versão mobile. */
+.app{color-scheme:light}
+.app.dark{color-scheme:dark}
+.mobile-theme-toggle{display:none;align-items:center;justify-content:center;gap:7px;border:1px solid var(--border);border-radius:999px;background:var(--bg);color:var(--text);padding:9px 11px;font-weight:600;font-size:12px;min-height:40px;white-space:nowrap}
+.mobile-theme-toggle:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.app.dark .pill{background:#2b4164;color:#d7e6ff}
+.app.dark .toast{background:#173b2c;color:#c5f6db}
+@media(max-width:700px){
+ .mobile-theme-toggle{display:inline-flex;margin-left:auto;margin-right:10px}
+ .mobilebrand{font-size:14px;line-height:1.15}
+ .headright>span:not(.avatar){display:none}
+ .headright{flex:0 0 auto}
+}
+@media(max-width:360px){.mobile-theme-toggle span{display:none}.mobile-theme-toggle{width:40px;padding:9px}.mobilebrand{font-size:13px}}
