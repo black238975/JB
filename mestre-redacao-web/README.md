@@ -7,3 +7,6 @@ Publicar o conteúdo desta pasta na branch `web` do GitHub. Netlify: base direct
 
 ## Limitações
 Não inclui login, comunidade online compartilhada, OCR real, vídeos hospedados ou sincronização entre dispositivos. Os dados de escrita ficam no localStorage do navegador. A avaliação por IA é estimativa, não nota oficial.
+
+## Correção do botão Corrigir com IA
+As mensagens de carregamento, sucesso e erro agora permanecem abaixo do botão. Se a função Netlify não estiver publicada, o usuário recebe erro explicativo. Configurar `GEMINI_API_KEY` como variável secreta no Netlify e executar novo deploy.
