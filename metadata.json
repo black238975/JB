@@ -1,0 +1,6 @@
+{
+  "name": "Mestre da Redação",
+  "description": "Plataforma completa de ensino, prática, correção inteligente com IA, simulados e evolução de redação para ENEM, vestibulares e concursos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
