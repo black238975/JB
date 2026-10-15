@@ -30,3 +30,11 @@ Na aba **Scanner**, os estudantes podem fotografar 1 a 3 páginas com o celular 
 - A câmera é oferecida em navegadores mobile com suporte a `capture="environment"`; no desktop, o dispositivo normalmente exibe um seletor de arquivos.
 
 Para publicar, mantenha a **branch `web`** com este conteúdo em `mestre-redacao-web/` e use no Netlify: Base directory `mestre-redacao-web`, Build command `npm run build`, Publish directory `dist` (caminho efetivo `mestre-redacao-web/dist`), Functions directory `netlify/functions` relativa à base. Publique e teste em um celular com rede HTTPS.
+
+## Temas de redação importados do Android
+
+Esta versão inclui os **18 temas** do arquivo Kotlin `InitialSeedData.kt`, preservando categorias, modalidades, textos motivadores, proposta de redação, dados estatísticos, sugestões de repertório e perguntas orientadoras.
+
+O campo `isExclusivePremium` conserva a classificação original do Android como metadado. **A versão web não implementa bloqueio/pagamento**; os 18 temas continuam disponíveis. As estatísticas são transcritas do material Android sem verificação externa de datas e fontes: confira a informação antes de citá-la em uma redação.
+
+Em **Aprender**, selecione **Praticar** em um dos 18 temas para ler os materiais completos em **Praticar**. Os mesmos temas continuam selecionáveis no **Scanner**. A correção por IA segue funcionando através das Netlify Functions existentes.
